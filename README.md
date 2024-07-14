@@ -1,6 +1,6 @@
 # Rockpaper
 PYTHON LANGUAGE
-Slight Rock,Paper, &amp; Seissor game for Beginner level Project 
+Slight Rock,Paper, &amp; Seissor game for Beginner level Project (with the help of only conditional statement)
 
 Code:-
 import random
